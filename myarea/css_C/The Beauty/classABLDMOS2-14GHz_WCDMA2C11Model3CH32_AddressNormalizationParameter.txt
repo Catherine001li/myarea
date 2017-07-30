@@ -1,0 +1,15 @@
+PA LUT model normalization parameters: 
+Amp_pa= 1.1428861359 
+Offset_pa= 0.0000000000 
+Maxmag_pa= 0.8749778028 
+UpperBound_pa = 1.0000000000 
+
+
+DPD LUT model normalization parameters: 
+Amp_dpd= 1.4734443447 
+Offset_dpd= 0.0000000000 
+Maxmag_dpd= 0.6786818950 
+UpperBound_dpd= 1.0000000000 
+
+
+ 
